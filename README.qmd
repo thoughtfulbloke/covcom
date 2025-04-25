@@ -4,78 +4,97 @@ format: gfm
 editor: visual
 ---
 
-This is where I will be making my notes, thinking and support evidence for my submission to the 2nd NZ covid comission https://haveyoursay.covid19lessons.royalcommission.nz
+This is where I will be making my notes, thinking and support evidence for my submission to the 2nd NZ covid commission https://haveyoursay.covid19lessons.royalcommission.nz
 
-The country has already had one enquiry, avialable at https://www.covid19lessons.royalcommission.nz/reports-lessons-learned/ but the present government is not going to act on any of the recomendations until next year, when it has the report organised by the polticla party on record as saying "When it came to COVID, we completely blew out what the value of a life was" as well. This is the second covid enquiry.
+The country has already had one enquiry, available at https://www.covid19lessons.royalcommission.nz/reports-lessons-learned/ but the present government is not going to act on any of the recommendations until next year, when it has the report organised by the political party on record as saying "When it came to COVID, we completely blew out what the value of a life was" as well. This is the second covid enquiry.
 
-I know, from comments in hate mail directed at me, the fringe anti-vax supporters of minor, but at present disproportionately influential, political parties consider this to be "their" equiry that will validate their claims and beliefs.
+I know, from comments in hate mail directed at me, the fringe anti-vax supporters of minor, but at present disproportionately influential, political parties consider this to be "their" enquiry that will validate their claims and beliefs.
 
-Even, if it does so, I am still determined that my contribution (and all contributions that do not request privacy will be public) will make it clear that there are those within the country prepared to advocate for an approach that is both fact based and caring for others. History can be the judge about the the commission final report.
+Even, if it does so, I am still determined that my contribution (and all contributions that do not request privacy will be public) will make it clear that there are those within the country prepared to advocate for an approach that is both fact based and caring for others. History can be the judge about the the commission final report. So my authorial persona is "making a good faith effort to make useful comments, while countering absurdities I expect are appearing in other submissions"
 
-So, with submissions due late April I will be doing most of the work on, and updates to this site, in mid-late March, as I have other short term priorities. For the moment there are some initial thoughts,which I am sharing by quoting the terms of reference and suggestions from the commission and framing my initial response.
+This is in relation to commission English language make a submission page https://haveyoursay.covid19lessons.royalcommission.nz/royal-commission-covid-19-lessons/make-a-submission/
 
-As I gather supporting evidence and sharpen my thinking, there will be a page for each topic with more detail.
+## Submission
 
-Plain text is from the commission English language make a submission page https://haveyoursay.covid19lessons.royalcommission.nz/royal-commission-covid-19-lessons/make-a-submission/ my initial responses/comments are in italics.
+I am a New Zealand Citizen who was present continuously in the country for the entirety of the acute covid period of 2020 to 2022 inclusive, where the acute covid period is where worldwide there were death rates significantly above historical pre-pandemic trends.
 
-## Overview
+For the stated goal of the commission being "We will be using our review of these key decisions to give advice to the Government on how Aotearoa New Zealand could prepare for and respond to any future pandemics" there are a couple of general assumptions I am making in my comments.
 
-The Royal Commission of Inquiry into COVID-19 Lessons Learned was established in December 2022.
+The first is that for preparing and responding to any future pandemics, the possible options will be constrained by the legally binding W.H.O. pandemic treaty that New Zealand has been a party to drafting. For example, New Zealand cannot expect to have preferential access to vaccines in the future (where preferential is obtaining a disproportionate number of vaccines to keep the NZ population safer and enable earlier return to normality at a cost of unvaccinated mass death in other countries). So, to me, it is a bit pointless making claims that New Zealand should aim to preferentially obtained vaccine supplies in future pandemics.
+
+The second assumption is that we do not, based on the experience of the last pandemic, know the deadliness of any future pandemics. Nor, at the start of any future pandemic is the death toll understood, as it will vary with things like time to develop vaccines and implement full vaccine cover. So any recommendations should be broadly applicable to a range of pandemics rather than focusing on a specific, idiosyncratic, measure of the way the last pandemic evolved.
+
+The third assumption I am making is that in decided the wisdom of actions at a time of world-wide pandemic, evidence and context matter. Something that future historians reading these submission need to be aware of is that approximate 1% of the population does not believe virus exist and/or cause disease. A time of mass death due to a viral epidemic causes a fundamental disagreement between the vast bulk of the population that accept the last 120 years of biology versus the small minority that do not. In evidence of causes, and claims of appropriate actions to address those causes, evidence which ignores the effects of the pandemic and ascribes all harms to actions in response to it are disproportionately created by the 1% of the population who do not contemporary biology. Those studying the corpus of submissions and finding those at strong variance to biology can simply search for author's public statements about doubts around the existence or actions of viruses.
+
+This creates a fundamental conflict in pandemic response, with almost all of the population not wanting their risk from pandemic damage increased by their response to the pandemic being constrained by people not accepting twentieth century biology, and the 1% not wanting the country they live in to act in ways that are contrary to their beliefs.
+
+These radically different views of what are evidence show up particular in the case of pandemic deaths and vaccines, as these are particularly connected to the science of the last 120 years of biology. For the last few centuries actuaries and others have understood that comparing deaths should be done on the basis of comparing deaths rates (so as not to confuse having more or fewer people with changes in risk) by age (so as not to confuse changes in the number of older or younger people with different risks of death). The tens of thousands of excess deaths claimed by antivaxers, and so being used as a justification for anti-vaxer actions, is simply the result of ignore the growing number of elderly people who have a higher risk of dying naturally than younger people, and ascribing all those natural deaths to vaccines. For more details about this see https://newsroom.co.nz/2024/09/06/the-truth-about-nzs-death-rate-that-covid-commission-will-hear/
+
+That there is a conflict between this minority and the rest of society at pandemic times is not surprising. However, the existence this inevitable conflict is, in itself, not a reason to accept dodgy maths as valid evidence for concluding what the problem is and what the solutions may be. The truth between peer reviewed science developed over centuries and oppositional beliefs of extreme minorities opposed to that does not lie half way in between.
+
+For the acute phase of the covid pandemic, we can use actuarial methods of the last few centuries to compare deaths in groups of countries with similar characteristics, and include economic measures.
+
+![Headline results by grouped countries](table.png)
+
+By comparison with other countries, we can make a series of general observations. Such as:
+
+- The pandemic was a serious worldwide crisis, that did the most damage in countries with low acceptance of vaccination.
+- The overall health system created some potential to save lives, and if New Zealand was prepared to tax and fund health to a level 1.5 times what it did prior to the pandemic, it could have kept some people alive with treatment that would otherwise not be.
+- 2021, with the the deadly Delta strain (comparatively deadly particularly compared to the subsequent Omicron strain) was the year many countries peaked in deaths as they relaxed non-pharmaceutical interventions without yet having full population immunity from repeated vaccination.
+
+While peak unemployment is shown as an indicator (and New Zealand peaked low), if one takes a concept like "years of life lost" for a population, and uses the statistical value of a life developed by the New Zealand Ministry of Transport, those indicators show that in the time of international pandemic no other country was able to save as many lives for cheaper.
 
 The first phase of the COVID-19 Inquiry ran until 28 November 2024, including a public submissions period in early 2024. Phase Two of the Inquiry is now underway. Phase Two is looking at some additional topics that were not covered in Phase One, as well as looking in more detail at some of the topics included in Phase One, such as mandates and lockdowns.
 
-Phase Two’s primary focus is reviewing key decisions made by the New Zealand Government in response to COVID-19 during 2021 and 2022. Specifically, we are looking at key decisions the Government made in the following areas:
+### Vaccines, including mandates, approvals,
 
-*I think some factual scene setting is useful for where things were at both for NZ in 2021 and 2022 and the world (so New Zealand's response to the world rather than treating New Zealand as a vacuum). Because even though the terms of reference where 2021/22 there had been effects in 2020, and like other high vaccination societies detectable mortality effects would continue through into 2023 (for lower vaccination societies where data is available 2024)*
+For my personal experience, my mother is still alive, unlike elderly relatives of friends in other countries. Nor was I hospitalised needing critical care for covid, unlike people I went to school with who were living overseas at the time. In fact, I personally have no close acquaintances hospitalised for covid in NZ. Most of the people I know living overseas with a similarly aged social sphere do know pre-vaccination people with their lives disrupted by infection.
 
-Vaccines, including mandates, approvals,
+As someone who read the publicly available scientific advice at the time in 2021, I have read people more recently misstating what that advice was, then saying that their mis-statement of that advice meant that the government had lied to them. The official scientific advice of the New Zealand Government as of May 7th 2021 (so when many of the specific roll-out plans were being implemented) is still available stored in the Internet Archive at https://web.archive.org/web/20210623233231/https://www.health.govt.nz/system/files/documents/pages/science_updates_7_may_2021.pdf#expand the gist of understanding about vaccines at the time was (and still is) that:
 
-*As it involves "how it affected your and whānau/friends lives" I am think of frame it as "My mother is still alive, unlike elderly relatives of friends in other countries, nor was I hospitalised needing critical care for covid unlike people I went to school with now living elsewhere" Then going for the point that peoples false beliefs about vaccination affected me as a small section of the population who rejects the last 130 years of biology attempted to require others to live by their beliefs. Buffer this with I knew myself to hold a true, rational view because of {cite evidence}".*
+- vaccines lowered spread, not prevent it entirely
+- vaccines lowered the risk of serious illness and death, not prevent it entirely.
 
-*For mandates, I acknowledge my perspective of why they are a legitimate tool is pretty idiosyncratic so people may not want to draw from this. I am of the opinion that at a time of an infectious disease pandemic, the state has a special responsibility to minimise the risk to lives of people at times those people are required (by health necessity or legal requirement) to physically interact with agents of the state. And I feel, as a non-lawyer, that the vibe of the Bill of Rights Act stuff about not being deprived of life is consistent with that. As the covid vaccine was both safe (for which I will spell out the evidence) and effective (spelling out the 2021 evidence on reducing transmission, and the 2022 Omicron era evidence because they were different levels of reducing transmission) at reducing onward transmission (also making the point here that many critics are falsely conflating does not perfectly counter every infection with has no effect at all), agents of the state rejecting being part of mandates are wanting to exercise their state mandated power in a way more risky to others.*
+This understanding was matched by the age standardised mortality rates in other countries, where more vaccination matches fewer deaths.
 
-*Approvals is, IMO, a shout out to conspiracy claims around the approval processes. But I think it worth discussing the multiple compatibile juristictions change that has alread been made has the existing potential to speed up the process at future times of crisis.*
+On the specific topic of mandates, I am of the opinion that at a time of an infectious disease pandemic, the state has a special responsibility to minimise the risk to life of people at times those people are required (by health necessity or legal requirement) to physically interact with agents of the state. And I feel, as a non-lawyer, that the vibe of the Bill of Rights Act stuff about not being deprived of life is consistent with that. As the covid vaccine was both safe (for which I will spell out the evidence) and effective (spelling out the 2021 evidence on reducing transmission, and the 2022 Omicron era evidence because they were different levels of reducing transmission) at reducing onward transmission (also making the point here that many critics are falsely conflating does not perfectly counter every infection with has no effect at all), agents of the state rejecting being part of mandates are wanting to exercise their state mandated power in a way more risky to others. 
 
-and safety Lockdowns, particularly the lockdowns of late 2021 and the extended Auckland/Northland lockdown
+For vaccine approvals for use, as a starting point any decision should be based on the best scientific evidence at the time. But any recommendations made by the commission should be based on the two major changes since the assessment of vaccines in the last pandemic.
 
-*As with earlier sections, I am going to be contrasting what happened to me, my whānau and friends in New Zealand compared to countries that were more open and had higher economic and mental health effects. And I am going to note that I have suffered from people spouting misinformation around lockdowns, in a similar way to that of vaccines. Just because a report into future pandemic responses need to note that there are some very vocal people with very vocal views unsupported by evidence, does not mean that future responses should be based on those very vocal views unsupported by evidence.*
+Firstly, that the W.H.O. pandemic treaty just negotiated by New Zealand is expected to make vaccine access fairer for the world as a whole, so mean less preferential access for wealthy countries.
 
-Testing and tracing technologies, like RAT tests
+Secondly, the changes that have been made to Medsafe approvals process of accepting evidence used in successful approvals in comparable jurisdictions. This is expected to speed up the approval process for globally in demand medicines.  
 
-*My personal experience was I was comfortable visiting my elderly mother in person more often than had I not known if I was potentially infectious or not, and accompany that general point about friend in other places living in situations of insufficient vaccine cover and no easy way to know infectious status. I do have some thoughts about clarity of messaging at different times as the tools changed, & that the state needs to be clear on the reasons and effects of changes*
+To achieve the Commission objective of advising and preparing for future pandemics, any recommendations should be from the starting point of the time of issue of the Commission's report rather than the time under consideration.
 
-and the COVID-19 Tracer app,
+### Safety Lockdowns, particularly the lockdowns of late 2021 and the extended Auckland/Northland lockdown
 
-*I don't know what the Tracer app is getting a mention for, unless it is "big brother" misinformation. Because in this country it was a privacy preserving opt-in system that saved lives. While other places had less effective implementations.*
+In a pandemic generated by a novel pathogen, there is no more effective way of not catching, spreading, or being damaged by the pathogen than not being where it is. Every other mechanism that involves lowering risk in an environment of exposures involves more risk than not being exposed.
 
-and public health materials, like masks.
+While few people enjoy safety lockdowns, any recommendations that involve removing them as a possibility (given unknown levels of future pandemic deadliness) should involve a bundle of alternatives that provide equivalent protection for a population. These alternatives need to be funded to be prepared for as rapid introduction in emergency situations as lockdowns can be.
 
-*I think masks needs to be accompanied by discussion are short-term threat environments, stage of pandemic acute risks, and (again) the Bill of Rights related moral stance but with the location of the interaction as a risk environment. This is where we get into the nitty-gritty of subpopulation with heighted health risks being required to attend particular locations. This could branch into a broader discussion about the rights of people to be safely part of society, but I haven't thought out the keeping tightly within the terms, vs. what personal statements other with health conditions might wish to make to the commission about their risks which would absolutely fit the terms.*
+I would suggest that as the purpose of safety lockdowns is to separate infected individuals from infectable individuals during a diseases infectious period, the easiest place to develop equivalent response potential is in the public health contact tracing area, where funding more detailed knowledge of infectious chains would support a move from broader to more targeted interventions to prevent pathogen spread.
 
-We will be using our review of these key decisions to give advice to the Government on how Aotearoa New Zealand could prepare for and respond to any future pandemics. Phase Two will only make recommendations to the Government regarding the topics included above.
+If the Commission is assessing forms of "cost" of lockdowns and using that for a decision making basis, then for future planning I suggest that any recommendations need to include the mechanism for developing a way of measuring that cost when it is not yet known because it is too early in the pandemic cycle. Such mechanisms also need to be able to distinguish the cost of the pandemic from the cost of interventions. For example while New Zealand saw health treatment delays and economic costs, those delays and costs were less than countries with more spread of covid because the disease itself has a cost.
 
-How you can take part
+### Testing and tracing technologies, like RAT tests
 
-We want to hear from you about how key decisions in the areas listed above (like the use of longer lockdowns, or making RAT tests free, for example) affected or changed your life, or the lives of your whānau or friends.
+RAT tests were an example of the widespread introduction of a new technology that more exactly and specifically determine infectiousness, and so enabled more exact targeting of public health measures.
 
-You could tell us how these decisions by the Government had an effect on your work or business, your relationships, important life events, your health, or your education, for example.
+At times of future pandemic, it seems reasonable to have ready availability of any technologies of the day that permit more exact targeting of public health measures.
 
-You can do this by filling in the online submission form, which you will find by clicking the ‘Make a submission’ link at the bottom of this page.
+But the more individualised the application of such technologies, the more there needs to be good, accurate, public information on how such technologies work and what they determine. Since there is no expert in the process, the public needs the relevant information.
 
-In the form, you will have the option of either writing your submission in the text box provided, or attaching a Word document or PDF that contains your written submission. You can only upload one document.
+My personal experience was I was comfortable visiting my elderly mother in person, maintaining those social bonds, knowing I was not placing my mother at risk of death through my actions.
 
-After you make your submission, you will be asked some questions about yourself. Providing this information is optional, but we really encourage you to fill it in. This information helps our Inquiry better understand your perspective and makes sure we hear from a range of people. It also means we can contact you about your submission if we need to.
+### The COVID-19 Tracer app
 
-More detailed pages with data, background and detail (to come later):
+New Zealand's covid tracer app was a triumph of opt-in, privacy preserving, low cost technical response. Compared to the abject failures of such implementations in many other countries, I suggest there are many positive lessons to ponder about the development of such technology in a way that is effective for individuals and the country.
 
--   reference period
+### Public health materials, like masks.
 
--   vaccines
+Because masks work as an engineering solution to a dangerous particle size problem, consideration of masks is very similar to workplace health requirements. A given quality of mask creates a barrier to a dangerous particle of a particular size, so long as the mask is worn in an exposure environment.
 
--   lockdowns
+I feel that because New Zealand kept covid from spreading by macro-methods, in the last pandemic thorough public understanding of factual information around the relationship between mask quality and exposure environments was lacking.
 
--   RAT tests
-
--   Covid App
-
--   Masks
+If a future respiratory pandemic is going to be mitigated by the collective masking of individuals, then those individuals need accurate understanding of the context of use.
